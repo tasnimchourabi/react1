@@ -1,0 +1,13 @@
+.image{
+    background: rgb(250,238,242);
+background: radial-gradient(circle, rgba(250,238,242,1) 0%, rgba(250,238,242,1) 41%, rgba(250,238,242,1) 95%);
+    background-size: cover;
+    height: 90vh;
+    margin-top: 15vh;
+    display: flex;
+    
+}
+img{
+
+  
+}
